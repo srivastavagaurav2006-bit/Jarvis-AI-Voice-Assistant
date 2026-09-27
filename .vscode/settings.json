@@ -1,0 +1,5 @@
+{
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true
+}
